@@ -5,10 +5,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Lab/Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20progress-yellow)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
-
 - Este repositorio contiene notebooks de pruebas con el SDK de AWS (boto3) en Python. 
 - Incluye ejemplos prácticos para interactuar con diferentes servicios de AWS, como EC2, S3, IAM, DynamoDB, entre otros.
 

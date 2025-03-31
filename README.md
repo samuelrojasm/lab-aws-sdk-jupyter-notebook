@@ -59,6 +59,7 @@ Para esta opción usamos el gestor de env de python **conda**
         ```
 
 ### 4. Ejecutar de manera local JupyterLab
+- Entorno para trabajar con los Notebooks de python
     ```bash
     jupyter-lab
     ```

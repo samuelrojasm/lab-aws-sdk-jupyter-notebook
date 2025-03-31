@@ -59,7 +59,7 @@ Para esta opción usamos el gestor de env de python **conda**
         ```
 
 ### 4. Ejecutar de manera local JupyterLab
-    ```
+    ```bash
     jupyter-lab
     ```
 

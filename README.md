@@ -1,9 +1,12 @@
 # 🛠️ AWS SDK Notebooks con Python (boto3)
 
-<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/AWS-SDK-orange?logo=amazonaws&logoColor=white" alt="AWS SDK" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Jupyter-Lab/Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter" style="pointer-events: none;" />
-<img src="https://img.shields.io/badge/Status-Work%20in%20progress-yellow" alt="Status" style="pointer-events: none;" />
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-SDK-orange?logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Lab/Notebook-F37626?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Work%20in%20progress-yellow)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
 - Este repositorio contiene notebooks de pruebas con el SDK de AWS (boto3) en Python. 

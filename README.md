@@ -1,9 +1,10 @@
 # 🛠️ AWS SDK Notebooks con Python (boto3)
 
-<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/AWS-SDK-orange?logo=amazonaws&logoColor=white" alt="AWS SDK" />
-<img src="https://img.shields.io/badge/Jupyter-Lab/Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Status-Work%20in%20progress-yellow" alt="Status" />
+<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/AWS-SDK-orange?logo=amazonaws&logoColor=white" alt="AWS SDK" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Jupyter-Lab/Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Status-Work%20in%20progress-yellow" alt="Status" style="pointer-events: none;" />
+
 
 - Este repositorio contiene notebooks de pruebas con el SDK de AWS (boto3) en Python. 
 - Incluye ejemplos prácticos para interactuar con diferentes servicios de AWS, como EC2, S3, IAM, DynamoDB, entre otros.

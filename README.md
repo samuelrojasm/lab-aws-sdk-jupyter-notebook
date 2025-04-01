@@ -14,12 +14,6 @@
 ### Ejemplos AWS EC2
 - [Listar datos de AWS EC2](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook/blob/main/EC2/ec2-list.ipynb)
 
-
-## 📂 Contenido
-- Ejemplos AWS EC2
-    - [Listar datos de AWS EC2](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook/blob/main/EC2/ec2-list.ipynb)
-
-
 ---
 
 ## 🚀 Requisitos
